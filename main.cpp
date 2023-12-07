@@ -4,7 +4,6 @@
 #include <SDL2/SDL.h>
 #include <cstdlib>
 #include <math.h>
-#include <SDL_image.h>
 #include <complex.h>
 
 struct point_t {
