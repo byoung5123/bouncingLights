@@ -24,7 +24,7 @@ This program simulates lights bouncing around a window, creating an animated dis
 
 1. Clone the repository:
 
-   git clone https://github.com/your-username/bouncing-lights.git
+   git clone https://github.com/byoung5123/bouncingLights.git
 
 2. Navigate to the project directory:
 
