@@ -1,10 +1,10 @@
 # Bouncing Lights
 
-Bouncing Lights is a simple program written in C++ using the SDL2 library to create an animated simulation of bouncing lights with color attenuation.
+Simple program written in C++ using the SDL2 library to create an animated simulation of bouncing lights with color attenuation.
 
 ## Introduction
 
-Bouncing Lights simulates lights bouncing around a window, creating an animated display of color attenuation. The lights move within the window boundaries, and their colors change based on their position and the attenuation equation.
+This program simulates lights bouncing around a window, creating an animated display of color attenuation. The lights move within the window boundaries, and their colors change based on their position and the attenuation equation.
 
 ## Features
 
