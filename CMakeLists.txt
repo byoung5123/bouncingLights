@@ -12,7 +12,7 @@ set(CMAKE_CXX_STANDARD 17)
 set(CMAKE_CXX_STANDARD_REQUIRED ON)
 set(CMAKE_CXX_EXTENSIONS ON)
 
-add_executable(complex)
-target_sources(complex PRIVATE main.cpp )
-target_link_libraries(complex PRIVATE  SDL2::SDL2 SDL2::SDL2main )
+add_executable(bouncingLights)
+target_sources(bouncingLights PRIVATE main.cpp )
+target_link_libraries(bouncingLights PRIVATE  SDL2::SDL2 SDL2::SDL2main )
 
