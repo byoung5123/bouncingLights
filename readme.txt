@@ -1,4 +1,4 @@
-# Bouncing Lights
+# bouncingLights
 
 Simple program written in C++ using the SDL2 library to create an animated simulation of bouncing lights with color attenuation.
 
