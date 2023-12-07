@@ -28,7 +28,7 @@ This program simulates lights bouncing around a window, creating an animated dis
 
 2. Navigate to the project directory:
 
-   cd bouncing-lights
+   cd bouncingLights
 
 3. Build with CMake:
 
@@ -40,4 +40,4 @@ This program simulates lights bouncing around a window, creating an animated dis
 
 5. Run the executable:
 
-   ./bouncing-lights
+   ./bouncingLights
